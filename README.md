@@ -1,0 +1,1 @@
+A machine learning-based text classification project that identifies whether a given message is spam (unsolicited or unwanted message) or ham (legitimate message). This classifier can be used to filter unwanted emails, SMS, or other forms of textual communication.
