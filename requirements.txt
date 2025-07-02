@@ -1,5 +1,4 @@
-flask
+streamlit
 joblib
 pandas
-flask_cors
-sklearn
+scikit-learn
